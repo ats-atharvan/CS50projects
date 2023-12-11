@@ -1,2 +1,3 @@
 # CS50projects
- Contains files used for projects in CS50 course offered by HarvardX
+ CS50 AI: Project Tictactoe
+ https://youtu.be/sSKVVEW7bXo?si=W219i6DDzq6AoY78
