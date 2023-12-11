@@ -1,2 +1,3 @@
 # CS50projects
- Contains files used for projects in CS50 course offered by HarvardX
+ CS50 AI: Project Traffic
+ https://youtu.be/AssEJ0m3JQs?si=T2eyqVWJMy4FV3p_
