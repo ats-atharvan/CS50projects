@@ -1,2 +1,2 @@
 # CS50projects
- Contains files used for projects in CS50 course offered by HarvardX
+CS50 AI: Project Parser
